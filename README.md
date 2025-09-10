@@ -46,9 +46,7 @@ admin.site.register(Movies, MoviesAdmin)
 ```
 
 ## OUTPUT
-
-
-<img width="1920" height="1200" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b2ff3103-8404-4c0e-a6a0-2f535d64edbd" />
+<img width="1918" height="1135" alt="image" src="https://github.com/user-attachments/assets/d00dbe42-fd2f-495c-a23b-ce19db496075" />
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
